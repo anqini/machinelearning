@@ -35,4 +35,4 @@ You are free to use or extend my code for educational purposes provided that you
     -   +86 185 1981 6425 (china)
     -   +1 310 874 7596 (US)
 
-![Good Luck](https://github.com/anqini/machinelearning/blob/master/others/goodluck.png)
+![Good Luck](https://github.com/anqini/machinelearning/blob/master/others/goodluck.png =400x)
