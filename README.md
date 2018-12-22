@@ -1,6 +1,7 @@
-Intro to my Github account
+Intro to my Github Account
 ================
 Anqi Ni
+
 12/21/2018
 
 ### Hi there!
