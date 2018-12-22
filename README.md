@@ -3,7 +3,7 @@ Intro to my Github Account
 Anqi Ni\
 12/21/2018
 
-### Hi there!
+## Hi there!
 
 This is a personal GitHub account where I'd like to share some interesting implementations of machine learning and parallelism.
 
