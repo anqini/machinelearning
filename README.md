@@ -26,9 +26,9 @@ You are free to use or extend my code for educational purposes provided that you
 
 ------------------------------------------------------------------------
 
-### contact information
+### Contact information
 
--   Name: Anqi Ni
+-   name: Anqi Ni
 -   email: anqini4\#gmail.com (change \# to @)
 
 -   phone:
