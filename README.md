@@ -35,4 +35,4 @@ You are free to use or extend my code for educational purposes provided that you
     -   +86 185 1981 6425 (china)
     -   +1 310 874 7596 (US)
 
-![Good Luck](./others/goodluck.png =400x)
+<img src="./others/goodluck.png" width="400">
